@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1708292326" />
+    <testcase name="test_adder" classname="test" file="/foss/designs/designs/LFSR/test/test.py" lineno="8" time="0.005873680114746094" sim_time_ns="250000.001" ratio_time="42562753.86403247" />
+  </testsuite>
+</testsuites>

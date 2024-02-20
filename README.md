@@ -1,5 +1,6 @@
 <h1 align="center"> 8-bit-LFSR </h1>
 <p align="center"><i>An 8 bit Linear-Feedback Shift Register using OpenLane flow and Skywater130 (RTL to GDS).</i></p>
+<p align="center"><i>Sebastian Castro</i></p>
 
 ## Contents
 - [Contents](#contents)
